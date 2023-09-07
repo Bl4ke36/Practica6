@@ -1,7 +1,7 @@
 Mario Eduardo Pérez Villalobos
 
-# Programacion-en-lenguajes-interpretados
+# Sistemas-operartivos
 
-**Profesor:** Jonathan Miranda
+**Profesor:** Osiel Morales
 
-Estamos aprendiendo a manejar repositorios por medio de comandos de git bash
+Estamos aprendiendo las funciones generales de un sistema operativo y como usarlas eficientemente
