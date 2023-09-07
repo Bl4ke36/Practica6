@@ -1,7 +1,7 @@
 Mario Eduardo Pérez Villalobos
 
-# Principios-de-composicion-y-diseño
+# Diseño-de-videojuegos
 
-**Profesor:** Roberto Melo
+**Profesor:** Hector Guerrero
 
-Estamos aprendiendo la teoria del diseño grafico y photoshop
+Estamos aprendiendo los componentes de un videojuego y como aplicarlos a un proyecto propio
