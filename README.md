@@ -1,7 +1,7 @@
 Mario Eduardo Pérez Villalobos
 
-# Diseño-de-videojuegos
+# Proyecto-de-app
 
-**Profesor:** Hector Guerrero
+**Profesor:** Sebastian Mejia
 
-Estamos aprendiendo los componentes de un videojuego y como aplicarlos a un proyecto propio
+Estamos aprendiendo el metodo de planeacion del funcionamiento y desarrollo de una aplicacion
