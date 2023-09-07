@@ -1,7 +1,7 @@
 Mario Eduardo Pérez Villalobos
 
-# Sistemas-operartivos
+# Principios-de-composicion-y-diseño
 
-**Profesor:** Osiel Morales
+**Profesor:** Roberto Melo
 
-Estamos aprendiendo las funciones generales de un sistema operativo y como usarlas eficientemente
+Estamos aprendiendo la teoria del diseño grafico y photoshop
